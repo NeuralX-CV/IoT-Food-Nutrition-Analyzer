@@ -9,7 +9,7 @@ A smart IoT system that combines weight measurement and computer vision to analy
 - **Nutritional Analysis**: Automatic calorie and nutrition calculation based on weight and food type
 - **Web Interface**: Real-time dashboard for monitoring and results
 - **Data Logging**: Historical data storage and analysis
-- **REST API**: Easy integration with other applications
+
 
 ## 📋 Hardware Requirements
 
@@ -44,7 +44,7 @@ Green        →    A+
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/iot-food-nutrition-analyzer.git
+git clone https://github.com/NeuralX-CV/IoT-Food-Nutrition-Analyzer.git
 cd iot-food-nutrition-analyzer
 ```
 
